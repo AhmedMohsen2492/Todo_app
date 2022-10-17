@@ -19,17 +19,17 @@ New Tasks
 <p align="center">
 <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221018_000959.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221018_000959.png" 
    >
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221017_234129.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221017_234129.png" 
    >
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221017_234332.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221017_234332.png" 
    >  
 </p>
 
@@ -40,12 +40,12 @@ Done tasks
 <p align="center">
 <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221018_001104.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221018_001104.png" 
    >
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221017_234139.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221017_234139.png" 
    >
   
 
@@ -56,12 +56,12 @@ Archived tasks
 <p align="center">
      <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221018_001116.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221018_001116.png" 
    >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img 
     width="250"
-   src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221017_234149.png" 
+   src="https://github.com/AhmedMohsen2492/Todo_app/blob/todo_app/screenshots/Screenshot_20221017_234149.png" 
    >
 
 </p>
