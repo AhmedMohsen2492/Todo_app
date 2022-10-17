@@ -34,27 +34,33 @@ New Tasks
 </p>
 
 <h2 align="center">
-Done tasks  &  Archived tasks
+Done tasks
 </h2>
 
 <p align="center">
 <img 
-    width="200"
+    width="250"
    src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221018_001104.png" 
    >
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    width="200"
+    width="250"
    src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221017_234139.png" 
    >
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+
+ <h2 align="center">
+Archived tasks
+</h2>
+
+<p align="center">
      <img 
-    width="200"
+    width="250"
    src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221018_001116.png" 
    >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img 
-    width="200"
+    width="250"
    src="https://github.com/AhmedMohsen2492/Todo_app/blob/main/screenshots/Screenshot_20221017_234149.png" 
    >
 
